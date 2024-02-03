@@ -26,3 +26,6 @@ else:
     user_points = user_points - 1
 
 print(f" your total point is = {user_points}" )
+
+print("finish")
+
